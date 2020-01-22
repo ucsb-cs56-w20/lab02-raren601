@@ -1,7 +1,7 @@
 # lab02-raren601
 
 Javadoc: https://ucsb-cs56-w20.github.io/lab02-raren601/
-Repo: https://ucsb-cs56-w20/lab02-raren601
+Repo: https://github.com/ucsb-cs56-w20/lab02-raren601
 
 # About this repo
 
